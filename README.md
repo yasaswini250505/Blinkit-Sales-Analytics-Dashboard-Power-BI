@@ -19,7 +19,7 @@ The goal is to simplify decision-making through a clean, interactive reporting e
 ## 🖼️ Dashboard Preview
 
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -126,4 +126,5 @@ This dashboard provides a 360° analytical view of Blinkit’s retail operations
 
 ## 🤝 Connect
 For collaborations, dashboard customizations, or project discussions — feel free to reach out!
+
 
